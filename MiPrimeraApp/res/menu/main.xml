@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.miprimeraapp.MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/action_close"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_close"/>
+    
+    <item
+        android:id="@+id/action_9gag"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_9gag"/>
+    <item
+        android:id="@+id/action_google"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_goog"/>
+    <item
+        android:id="@+id/action_yout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_yout"/>
+	<item
+	    android:id="@+id/action_Seg_act"
+	    android:orderInCategory="100"
+	    android:showAsAction="never"
+	    android:title="@string/Segunda_actividad"/>
+
+</menu>
